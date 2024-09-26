@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+}
+h2{
+    font-size: large;
+    color:orange;
+    font-style: italic;
+}
